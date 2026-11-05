@@ -1,7 +1,1 @@
-{
-  "version": "1.0.42",
-  "apkUrl": "https://github.com/Naythuya22/kohtet-pos-releases/releases/download/v1.0.42/kohtet-pos.apk",
-  "notes": "Settings ထဲကနေ app update စစ်လို့ ရတဲ့ version ပါ",
-  "sizeBytes": 101765193,
-  "publishedAt": "2026-11-05"
-}
+{"apkUrl":"https://github.com/Naythuya22/kohtet-pos-releases/releases/download/v1.0.43/kohtet-pos.apk","notes":"ခြင်း အပြည့် ကြည့် scroll ပြင်, ပင်မ card တွေ နှိပ်လို့ရ, ဝန်ထမ်း ထွက်ရန် long-press ဖျောက်","publishedAt":"2026-11-05","sizeBytes":101765409,"version":"1.0.43"}
